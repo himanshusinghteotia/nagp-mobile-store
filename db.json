@@ -1,0 +1,81 @@
+{
+  "user": [
+    {
+      "name": "admin@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "Iphone X",
+      "smdesc":"Size: 5.8 inch RAM: 2GB",
+      "desc": "The iPhone X has two cameras on the rear. One is a 12-megapixel wide-angle camera with f/1.8 aperture, with support for face detection, high dynamic range and optical image stabilization. It is capable of capturing 4K video at 24, 30 or 60 frames per second, or 1080p video at 30, 60, 120 or 240 frames per second.",
+      "price": 110000,
+      "img": "iphone"
+    },
+    {
+      "id": 2,
+      "title": "Samsung A21s",
+      "smdesc":"Size: 5 inch RAM: 1.5GB",
+      "desc": "The Samsung Galaxy A series is a line of mid-range smartphones manufactured by Samsung Electronics. The first models in the series, the first-generation Samsung Galaxy A3 and A5, which were introduced in December 2014 and released in March 2015.",
+      "price": 50000,
+      "img": "iphone"
+    },
+    {
+      "id": 3,
+      "title": "Nokia 6",
+      "smdesc":"Size: 5 inch RAM: 4GB",
+      "desc": "Nokia 6 smartphone runs on Android v7.1.1 (Nougat) operating system. The phone is powered by Octa core, 1.4 GHz, Cortex A53 processor. It runs on the Qualcomm Snapdragon 430 MSM8937 Chipset. It has 3 GB RAM and 32 GB internal storage.",
+      "price": 12000,
+      "img": "iphone"
+    },
+    {
+      "id": 4,
+      "title": "OnePlus 7T",
+      "smdesc":"Size: 5 inch RAM: 2GB",
+      "desc": "OnePlus 7T is a flagship offering from the company that comes with premium features. It has a powerful battery, strong processor and ample storage to meet the demand of the users. The display is immersive and it is suitable for all-round performance.",
+      "price": 45000,
+      "img": "iphone"
+    },
+    {
+      "id": 5,
+      "title": "Vivo U20",
+      "smdesc":"Size: 5.8 inch RAM: 2GB",
+      "desc": "The iPhone X has two cameras on the rear. One is a 12-megapixel wide-angle camera with f/1.8 aperture, with support for face detection, high dynamic range and optical image stabilization. It is capable of capturing 4K video at 24, 30 or 60 frames per second, or 1080p video at 30, 60, 120 or 240 frames per second.",
+      "price": 19000,
+      "img": "iphone"
+    },
+    {
+      "id": 6,
+      "title": "Vivo U20",
+      "smdesc":"Size: 6.5 inch RAM: 4GB",
+      "desc": "Vivo U20 is a mid-range smartphone that comes with amazing looks. It has a bezel-less display that offers an excellent viewing experience. The performance is also good with sufficient battery backup.",
+      "price": 14000,
+      "img": "iphone"
+    },
+    {
+      "id": 7,
+      "title": "Vivo V17 Pro",
+      "smdesc":"Size: 6.44 inch RAM: 8GB",
+      "desc": "The Vivo V17 Pro is a perfect smartphone, which is packed with all the premium features that one desires to have. The device has a great configuration that provides a great performance and makes it a gaming beast.",
+      "price": 25000,
+      "img": "iphone"
+    },{
+      "id": 8,
+      "title": "Samsung M",
+      "smdesc":"Size: 6.4 inch RAM: 4GB",
+      "desc": "Samsung Galaxy M30s comes with a mid-range price-tag and bring some amazing features. It has a strong processor that can deal with any sort of high-end performance. There is an amazing set of triple rear camera that clicks awesome pictures while the front camera also gets a high-resolution lens.",
+      "price": 15500,
+      "img": "iphone"
+    },
+    {
+      "id": 9,
+      "title": "iPhone SE 2",
+      "smdesc":"Size: 4.7 inch RAM: 3GB",
+      "desc": "Apple iPhone SE 2020 is an excellent smartphone that has some extraordinary features. It has a great configuration that delivers quality performance. The cameras are quite good that deal with photography and videography. Moreover, it is one of the very few iPhones to support wireless charging functionality.",
+      "price": 42500,
+      "img": "iphone"
+    }
+  ]
+}
